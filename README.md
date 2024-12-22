@@ -21,5 +21,18 @@ Follow these steps to set up and run the application locally:
 
 **Clone the Repository**
    ```bash
-   https://github.com/ksachin2004/React-based-Todo-app.git
-   cd reactjs-todolist
+https://github.com/ksachin2004/React-based-Todo-app.git
+```
+```bash
+cd reactjs-todolist
+```
+
+**Install Dependencies**
+   ```bash
+   npm install
+```
+
+**Run Dev**
+   ```bash
+   npm run dev
+```
