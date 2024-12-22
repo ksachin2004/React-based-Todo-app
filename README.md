@@ -22,4 +22,4 @@ Follow these steps to set up and run the application locally:
 **Clone the Repository**
    ```bash
    https://github.com/ksachin2004/React-based-Todo-app.git
-   cd React-based-Todo-app
+   cd reactjs-todolist
